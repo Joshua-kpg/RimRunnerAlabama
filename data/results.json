@@ -6568,6 +6568,21 @@
    "state": "applied",
    "winner": "away"
   },
+  "8b862ff1-4126-4b32-940d-579b45d3727d": {
+   "awayMp": "59717cd2-ccbc-42a6-a35e-8f9edd8a68bb",
+   "awayScore": 64,
+   "date": "2026-11-25",
+   "forfeit": false,
+   "gameId": "al26-x169",
+   "gameType": "non-conference",
+   "homeMp": "af9b32ce-c849-4411-87f5-1abdaeeea6a2",
+   "homeScore": 50,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
+   "winner": "away"
+  },
   "8c1cd941-a3c3-4cbe-bae9-ac0dff12d18b": {
    "awayMp": "d1e0e5f5-29c7-4eb2-ab39-af3bb781baf9",
    "awayScore": 52,
